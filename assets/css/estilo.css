@@ -147,33 +147,15 @@ footer{
     color: #FFF7D4;
     font-family: 'Poppins';
 }
-#imagemplaneta{
-    position: absolute;
-    width: 500px;
-    top: 50px;
-    z-index: -1;
-    transform: rotate(-5deg);
-}
 #imagem-designer{
-    position: absolute;
-    width: 90px;
-    z-index: 0;
-    left: 150px;
-    top: 160px;
+
 }
 #imagem-folhas{
-    position: absolute;
-    width: 125px;
-    z-index: 0;
-    left: 480px;
-    top: 170px;
+    margin-top: 40px;
+
 }
 #writer{
-    position: absolute;
-    width: 120px;
-    z-index: 0;
-    right: 170px;
-    top: 138px;
+
 }
 #mapa{
     position:absolute;
