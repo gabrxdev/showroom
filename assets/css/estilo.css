@@ -116,6 +116,10 @@ footer{
 .redes{
     text-align: center;
 }
+.redes-texto{
+    font-family: 'Poppins';
+    font-weight: 300;
+}
 #instagram{
     text-decoration: none;
     font-size: 40px;
